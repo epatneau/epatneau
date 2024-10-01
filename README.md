@@ -1,6 +1,6 @@
 ## About Me
 
-# I'm currently a high school student with an interest in computer programming and engineering and I'm enjoying learning Python as my first in-depth programming language
+### I'm currently a high school student with an interest in computer programming and engineering and I'm enjoying learning Python as my first in-depth programming language
 
 <!--
 **epatneau/epatneau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
